@@ -41,10 +41,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Sdl.Core.PluginFramework">
-      <HintPath>3rd Party Assemblies\Sdl.Core.PluginFramework.dll</HintPath>
+      <HintPath>..\3rd Party Assemblies\Sdl.Core.PluginFramework.dll</HintPath>
     </Reference>
     <Reference Include="Sdl.StudioServer.Api.Core">
-      <HintPath>3rd Party Assemblies\Sdl.StudioServer.Api.Core.dll</HintPath>
+      <HintPath>..\3rd Party Assemblies\Sdl.StudioServer.Api.Core.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
